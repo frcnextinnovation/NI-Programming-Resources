@@ -95,9 +95,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
-    <td align="center">2025.1.0</td>
+    <td align="center">2025.1.1</td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.1.0/elastic-setup-windows.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.1.1/elastic-setup-windows.exe">📥</a></td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/blob/main/elasticlib/Elastic.java">📦</a></td>
   </tr>
   <tr>
