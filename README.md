@@ -109,9 +109,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Advantage Scope</b></td>
-    <td align="center">4.1.2</td>
+    <td align="center">4.1.4</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.2/advantagescope-win-x64-v4.1.2.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.4/advantagescope-win-x64-v4.1.4.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
