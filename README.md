@@ -126,9 +126,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>BalenaEtcher</b></td>
-    <td align="center">1.19.25</td>
-    <td align="center"><a href="https://github.com/balena-io/etcher">🔗</a></td>
-    <td align="center"><a href="https://github.com/balena-io/etcher/releases/download/v1.19.25/balenaEtcher-1.19.25.Setup.exe">📥</a></td>
+    <td align="center">2.1.0</td>
+    <td align="center"><a href="https://github.com/balena-io/etcher/releases">🔗</a></td>
+    <td align="center"><a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
 </tbody>
