@@ -71,17 +71,17 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>REVLib</b></td>
-    <td align="center">2025.0.2</td>
+    <td align="center">2025.0.3</td>
     <td align="center"><a href="https://docs.revrobotics.com/revlib/install">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center"><a href="https://software-metadata.revrobotics.com/REVLib-2025.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2025.1.1</td>
+    <td align="center">2025.2.1</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.1.1/photonvision-v2025.1.1-linuxarm64_orangepi5.img.xz">📥</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.1.1/photonlib-v2025.1.1.json">📦</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonvision-v2025.2.1-linuxarm64_orangepi5.img.xz">📥</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonlib-v2025.2.1.json">📦</a></td>
   </tr>
   <tr>
     <td align="center" colspan="5"><b>💻 Software Libraries</b></td>
