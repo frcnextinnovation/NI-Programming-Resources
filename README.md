@@ -6,7 +6,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.3.13-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.3.29-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
@@ -33,9 +33,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>WPILib</b></td>
-    <td align="center">2025.3.1</td>
+    <td align="center">2025.3.2</td>
     <td align="center"><a href="https://github.com/wpilibsuite/allwpilib/releases">🔗</a></td>
-    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.3.1/Win64/WPILib_Windows-2025.3.1.iso">📥</a></td>
+    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.3.1/Win64/WPILib_Windows-2025.3.2.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Phoenix6</b></td>
-    <td align="center">25.3.1</td>
+    <td align="center">25.3.2</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v25.2.2/Phoenix-Offline_v25.2.2.exe">📥</a></td>
     <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json">📦</a></td>
@@ -78,10 +78,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2025.2.1</td>
+    <td align="center">2025.3.1</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonvision-v2025.2.1-linuxarm64_orangepi5.img.xz">📥</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonlib-v2025.2.1.json">📦</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonvision-v2025.3.1-linuxarm64_orangepi5.img.xz">📥</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.2.1/photonlib-v2025.3.1.json">📦</a></td>
   </tr>
   <tr>
     <td align="center" colspan="5"><b>💻 Software Libraries</b></td>
@@ -95,23 +95,23 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
-    <td align="center">2025.1.1</td>
+    <td align="center">2025.2.0</td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.1.1/elastic-setup-windows.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.2.0/elastic-setup-windows.exe">📥</a></td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/blob/main/elasticlib/Elastic.java">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Advantage Kit</b></td>
-    <td align="center">4.1.1</td>
+    <td align="center">4.1.2</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.1.1/AdvantageKit.json">📦</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.1.2/AdvantageKit.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Advantage Scope</b></td>
-    <td align="center">4.1.4</td>
+    <td align="center">4.1.5</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.4/advantagescope-win-x64-v4.1.4.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.4/advantagescope-win-x64-v4.1.5.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
