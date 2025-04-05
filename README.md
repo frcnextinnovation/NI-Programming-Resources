@@ -6,7 +6,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.3.29-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.4.5-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
@@ -64,9 +64,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>REV Hardware Client</b></td>
-    <td align="center">1.7.3</td>
+    <td align="center">1.7.5</td>
     <td align="center"><a href="https://docs.revrobotics.com/rev-hardware-client">🔗</a></td>
-    <td align="center"><a href="https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.7.3/REV-Hardware-Client-Setup-1.7.3.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.7.5/REV-Hardware-Client-Setup-1.7.5.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -95,9 +95,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
-    <td align="center">2025.2.0</td>
+    <td align="center">2025.2.2</td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.2.0/elastic-setup-windows.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.2.2/elastic-setup-windows.exe">📥</a></td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/blob/main/elasticlib/Elastic.java">📦</a></td>
   </tr>
   <tr>
@@ -109,9 +109,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Advantage Scope</b></td>
-    <td align="center">4.1.5</td>
+    <td align="center">4.1.6</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.4/advantagescope-win-x64-v4.1.5.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.6/advantagescope-win-x64-v4.1.6.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
