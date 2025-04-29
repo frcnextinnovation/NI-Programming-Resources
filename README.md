@@ -35,7 +35,7 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><b>WPILib</b></td>
     <td align="center">2025.3.2</td>
     <td align="center"><a href="https://github.com/wpilibsuite/allwpilib/releases">🔗</a></td>
-    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.3.1/Win64/WPILib_Windows-2025.3.2.iso">📥</a></td>
+    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.3.2/Win64/WPILib_Windows-2025.3.2.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><b>Phoenix5</b></td>
     <td align="center">5.35.1</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v25.2.2/Phoenix-Offline_v25.2.2.exe">📥</a></td>
+    <td align="center">N/A</td>
     <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json">📦</a></td>
   </tr>
   <tr>
