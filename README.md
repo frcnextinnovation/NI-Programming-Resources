@@ -48,7 +48,7 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><b>IntelliJ IDEA</b></td>
     <td align="center">2025.1.2</td>
     <td align="center"><a href="https://www.jetbrains.com/idea/download/?section=windows">🔗</a></td>
-    <td align="center"><a href="https://download.jetbrains.com/idea/ideaIC-2025.1.2.exe?_gl=1*1d72fzs*_gcl_au*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*FPAU*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*_ga*MjE0MTA0NTM3Mi4xNzQ4MDU3ODQx*_ga_9J976DJZ68*czE3NTAzNTAyNTgkbzMkZzEkdDE3NTAzNTAzMDckajExJGwwJGgw">📥</a></td>
+    <td align="center"><a href="https://download.jetbrains.com/idea/ideaIC-2025.1.2.exe?_gl=1*1tgk0z7*_gcl_au*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*FPAU*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*_ga*MjE0MTA0NTM3Mi4xNzQ4MDU3ODQx*_ga_9J976DJZ68*czE3NTAzNTAyNTgkbzMkZzEkdDE3NTAzNTA0NDkkajQ0JGwwJGgw">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
