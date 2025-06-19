@@ -1,8 +1,7 @@
 # NI Programming Resources
 
 <div align="center">
-
-<img src="https://nifornextinnovation.com/image/NILogo-643D73.svg" alt="nextinnovation" width="452" style="margin-left: -4px;">
+<img src="./ni.svg" alt="nextinnovation" width="452" style="margin-left: -4px;">
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
@@ -43,6 +42,13 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center">2025 Patch 1</td>
     <td align="center"><a href="https://www.ni.com/zh-cn/support/downloads/drivers/download.frc-game-tools.html">🔗</a></td>
     <td align="center"><a href="https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2025-game-tools/25.0/offline/ni-frc-2025-game-tools_25.0.1_offline.iso">📥</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center"><b>IntelliJ IDEA</b></td>
+    <td align="center">2025.1.2</td>
+    <td align="center"><a href="https://www.jetbrains.com/idea/download/?section=windows">🔗</a></td>
+    <td align="center"><a href="https://download.jetbrains.com/idea/ideaIC-2025.1.2.exe?_gl=1*1d72fzs*_gcl_au*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*FPAU*MTc5NjI0Nzg3LjE3NDgwNTc4Mzg.*_ga*MjE0MTA0NTM3Mi4xNzQ4MDU3ODQx*_ga_9J976DJZ68*czE3NTAzNTAyNTgkbzMkZzEkdDE3NTAzNTAzMDckajExJGwwJGgw">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -133,6 +139,7 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
 </tbody>
 </table>
+
 
 ## 📌 Legend
 
