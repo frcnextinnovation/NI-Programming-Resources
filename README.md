@@ -84,10 +84,17 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2025.3.1</td>
+    <td align="center">2025.3.2</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.3.2/photonvision-v2025.3.2-linuxarm64_rock5c.img.xz">📥</a></td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.3.2/photonlib-v2025.3.2.json">📦</a></td>
+  </tr>
+    <tr>
+    <td align="center"><b>PhotonVision-Acapella</b></td>
+    <td align="center">2025.3.1.2</td>
+    <td align="center"><a href="https://github.com/frcnextinnovation/photonvision-acapella/releases">🔗</a></td>
+    <td align="center"><a href="https://github.com/frcnextinnovation/photonvision-acapella/releases/download/v2025.3.1.2/photonvision-v2025.3.1.2-linuxarm64_rock5c.img.xz">📥</a></td>
+    <td align="center"><a href="https://github.com/frcnextinnovation/photonvision-acapella/releases/download/v2025.3.1.2/photonlib-v2025.3.1.2.json">📦</a></td>
   </tr>
   <tr>
     <td align="center" colspan="5"><b>💻 Software Libraries</b></td>
